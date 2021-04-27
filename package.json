@@ -1,0 +1,15 @@
+{
+  "name": "webrtc-videocall",
+  "version": "1.0.0",
+  "description": "video call app using webRTC",
+  "main": "sender.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "rishi singhal",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
